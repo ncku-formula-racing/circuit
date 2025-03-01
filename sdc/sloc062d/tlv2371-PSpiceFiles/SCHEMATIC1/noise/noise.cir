@@ -1,0 +1,22 @@
+** Profile: "SCHEMATIC1-noise"  [ C:\Users\a0868764\Desktop\_PSpice_Support\TLV2371\tlv2371-pspicefiles\schematic1\noise.sim ] 
+
+** Creating circuit file "noise.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../tlv2371.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpiceTIPSpice_Install\17.4.0\PSpice.ini file:
+.lib "nom_pspti.lib" 
+.lib "C:\Cadence\PSpiceTI\tools\pspice\library\nom.lib" 
+
+*Analysis directives: 
+.AC DEC 1000 1 100k
+.NOISE V([VOUT]) V_Vin 1
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END
