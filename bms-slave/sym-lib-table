@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Project_Lib")(type "KiCad")(uri "/Users/jackiempty/Git_repo/circuit/Share/Project_Lib.kicad_sym")(options "")(descr ""))
+  (lib (name "Project_Lib")(type "KiCad")(uri "${KIPRJMOD}/../share/Project_Lib.kicad_sym")(options "")(descr ""))
 )

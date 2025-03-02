@@ -3442,7 +3442,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/jackiempty/Git_repo/circuit/Share/3D_CAD/STP_250-1201.STEP"
+    (model "${KIPRJMOD}/../share/3D_CAD/STP_250-1201.STEP"
       (offset (xyz 22.25 13 4))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5678,7 +5678,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/jackiempty/Git_repo/circuit/Share/3D_CAD/43650-0200.stp"
+    (model "${KIPRJMOD}/../share/3D_CAD/43650-0200.stp"
       (offset (xyz 1.5 4 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
@@ -6289,7 +6289,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/jackiempty/Git_repo/circuit/Share/3D_CAD/STP_250-1201.STEP"
+    (model "${KIPRJMOD}/../share/3D_CAD/STP_250-1201.STEP"
       (offset (xyz 22.25 13 4))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -8897,7 +8897,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/jackiempty/Git_repo/circuit/Share/3D_CAD/43650-0200.stp"
+    (model "${KIPRJMOD}/../share//3D_CAD/43650-0200.stp"
       (offset (xyz 1.5 4 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
