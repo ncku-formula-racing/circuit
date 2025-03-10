@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "logo")(type "KiCad")(uri "D:/1_NCKU_EE/Forfula Racing/KiCAD/logo.pretty")(options "")(descr ""))
+)
