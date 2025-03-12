@@ -5,8 +5,8 @@
   (paper "A2")
 
   (title_block
-    (title "BSPD_v3")
-    (date "2025-01-30")
+    (title "BSPD_v3.2")
+    (date "2025-03-12")
     (company "Formula Racing")
     (comment 1 "NCKU")
   )
