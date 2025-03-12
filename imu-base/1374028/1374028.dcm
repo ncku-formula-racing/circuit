@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1374028
+D SMD female connector, nominal current: 2.2 A, Test voltage: 840 VAC, number of positions: 16, pitch: 1.27 mm, color: black, contact surface: Gold, type of contact: Female connector, mounting: SMD soldering
+K
+F http://www.phoenixcontact.com/gb/produkte/1374028
+$ENDCMP
+#
+#End Doc Library
