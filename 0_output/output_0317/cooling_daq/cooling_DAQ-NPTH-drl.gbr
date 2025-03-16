@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11-rc3*%
+%TF.CreationDate,2025-03-16T23:25:56+08:00*%
+%TF.ProjectId,cooling_DAQ,636f6f6c-696e-4675-9f44-41512e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.11-rc3) date 2025-03-16 23:25:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,0.650000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J7*%
+X144110000Y-137150000D03*
+X149890000Y-137150000D03*
+M02*
