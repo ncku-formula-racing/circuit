@@ -3526,7 +3526,7 @@
     (property "Value" "Micro_SD_Card" (at 246.38 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 274.955 131.445 0)
+    (property "Footprint" "Connector_Card:microSD_HC_Molex_47219-2001" (at 274.955 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://katalog.we-online.de/em/datasheet/693072010801.pdf" (at 245.745 139.065 0)
