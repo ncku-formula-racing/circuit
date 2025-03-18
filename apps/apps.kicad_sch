@@ -715,7 +715,7 @@
     (property "Value" "XTR117" (at 67.31 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (at 67.31 55.88 0)
+    (property "Footprint" "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" (at 67.31 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/xtr115.pdf" (at 67.31 45.72 0)
