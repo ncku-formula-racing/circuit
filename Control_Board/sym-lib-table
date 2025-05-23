@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WIRL-LORA_2618011181000")(type "KiCad")(uri "${KIPRJMOD}/WIRL-LORA_2618011181000/WIRL-LORA_2618011181000.kicad_sym")(options "")(descr ""))
+)
