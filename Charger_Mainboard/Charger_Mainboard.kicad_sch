@@ -1602,6 +1602,32 @@
     )
   )
 
+  (symbol (lib_id "Connector:Conn_01x02_Pin") (at 198.12 110.49 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 1d40c528-6cca-493e-a5d6-ad703283417b)
+    (property "Reference" "J24" (at 197.485 105.41 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "Conn_01x02_Pin" (at 197.485 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 198.12 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 198.12 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a19f33fa-df44-4083-99fd-1c3ad734fb59))
+    (pin "2" (uuid 11811ab1-f9e2-4932-abcb-4354076f082c))
+    (instances
+      (project "Charger_Mainboard"
+        (path "/2c4254d4-da70-461a-9652-3037a2f51e33"
+          (reference "J24") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:VDC") (at 163.83 81.28 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23de9c07-5c4f-4d89-bf20-ae4f26b69b78)
@@ -2656,6 +2682,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 193.04 113.03 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 9ac31685-9a6a-45da-8607-a24ad3ae26d5)
+    (property "Reference" "#PWR052" (at 186.69 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 189.23 113.03 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 193.04 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 193.04 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 562b95a8-1894-4f72-be7a-d315bfc2d4bf))
+    (instances
+      (project "Charger_Mainboard"
+        (path "/2c4254d4-da70-461a-9652-3037a2f51e33"
+          (reference "#PWR052") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 109.22 163.83 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e367fbd-f0f8-4c3b-a01d-0408cb5d3980)
@@ -3007,6 +3058,31 @@
       (project "Charger_Mainboard"
         (path "/2c4254d4-da70-461a-9652-3037a2f51e33"
           (reference "#PWR017") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 193.04 110.49 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b7b58115-2421-4993-939c-8f7f7864afc0)
+    (property "Reference" "#PWR051" (at 186.69 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 189.23 110.49 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 193.04 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 193.04 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6fda04e7-e66b-4f51-93f1-af41991fca64))
+    (instances
+      (project "Charger_Mainboard"
+        (path "/2c4254d4-da70-461a-9652-3037a2f51e33"
+          (reference "#PWR051") (unit 1)
         )
       )
     )
