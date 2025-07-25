@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Daphnis-I")(type "KiCad")(uri "${KIPRJMOD}/../share/Daphnis-I.pretty")(options "")(descr ""))
+)
