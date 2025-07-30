@@ -6,10 +6,10 @@
     (property "Value" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (at 8.89 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 0 0 0)
+    (property "Datasheet" "https://www.mouser.tw/datasheet/2/115/AS331-3213702.pdf" (at -5.08 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "AS331KTR-G1_1_1"
