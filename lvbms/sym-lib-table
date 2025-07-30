@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ76942PFBR")(type "KiCad")(uri "${KIPRJMOD}/BQ76942PFBR/BQ76942PFBR.kicad_sym")(options "")(descr ""))
+)
