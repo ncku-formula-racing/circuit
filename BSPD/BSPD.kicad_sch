@@ -4133,31 +4133,6 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 49.53 41.91 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 57fac80e-c952-47e6-b370-c7968fce002c)
-    (property "Reference" "#PWR076" (at 55.88 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 52.705 41.91 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 49.53 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 49.53 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 97337b30-475c-4e25-b79a-790750191cd0))
-    (instances
-      (project "BSPD"
-        (path "/59c21577-922f-4233-a7dd-617115a1de9a"
-          (reference "#PWR076") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+5V") (at 62.23 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 580d3f22-5edd-46b8-8265-1d2c599c2e62)
@@ -7257,31 +7232,6 @@
       (project "BSPD"
         (path "/59c21577-922f-4233-a7dd-617115a1de9a"
           (reference "#PWR02") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 49.53 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid fc5ee8e1-34d3-44e4-b774-b0aa74f3f058)
-    (property "Reference" "#PWR069" (at 55.88 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 53.34 36.83 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 49.53 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 49.53 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 497468d6-d045-4188-8523-0da459e390bb))
-    (instances
-      (project "BSPD"
-        (path "/59c21577-922f-4233-a7dd-617115a1de9a"
-          (reference "#PWR069") (unit 1)
         )
       )
     )
