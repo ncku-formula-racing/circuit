@@ -874,7 +874,7 @@
     (uuid f37b8af5-7029-4b76-8c03-883b59086fbe)
   )
 
-  (text_box "P1:DAQ\nP2:BSPD\nP3:SDC\nP4:X\nP5:MCU、lv mainboard\nP6:LED button(LED)\nP7:to ACC\nP8:x\nP9:x"
+  (text_box "P1:DAQ\nP2:BSPD\nP3:SDC\nP4:HVbox\nP5:MCU、lv mainboard\nP6:LED button(LED)\nP7:to ACC\nP8:x\nP9:control board"
     (at 196.215 156.21 0) (size 27.94 20.32)
     (stroke (width 0) (type default))
     (fill (type none))
