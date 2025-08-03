@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "BQ76942PFBR")(type "KiCad")(uri "${KIPRJMOD}/BQ76942PFBR")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/../share/logo")(options "")(descr ""))
 )
