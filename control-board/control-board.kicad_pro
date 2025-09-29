@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|189100000|106000000|e0499de5-b1d7-4efc-9b96-eb871be4ce5c|6d87fb3c-aed2-4ddc-ab68-499e2e3b278f|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -112,7 +114,7 @@
       "rules": {
         "max_error": 0.005,
         "min_clearance": 0.0,
-        "min_connection": 0.25,
+        "min_connection": 0.19999999999999998,
         "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -405,7 +407,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Control_Board.kicad_pro",
+    "filename": "control-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -518,7 +520,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
