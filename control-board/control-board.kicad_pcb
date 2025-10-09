@@ -3531,6 +3531,11 @@
         )
       )
     )
+    (model "${KIPRJMOD}/3D Model/STP_WIRL-LORA_2618011181000.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 180 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
@@ -4903,6 +4908,11 @@
       (net 4 "GND") (pintype "passive") (tstamp 586957ee-a7b0-4796-94fd-fa5ef7818c60))
     (pad "5" thru_hole circle (at -6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 20131889-094a-451e-a33a-79ad29aeb909))
     (pad "6" thru_hole circle (at 6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask" "B.SilkS") (tstamp 9c9475b4-5e1b-4274-ae52-e7f497f84eb0))
+    (model "${KIPRJMOD}/3D Model/M8S-04PFFR-SF8001-STP.stp"
+      (offset (xyz 0 8.5 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "M8_conn_panel:M8_Female_Conn_Panel_P4_90" (layer "F.Cu")
@@ -4938,6 +4948,11 @@
       (net 4 "GND") (pintype "passive") (tstamp 32277025-12e9-4b74-b6b1-621f55d50170))
     (pad "5" thru_hole circle (at -6.25 -3.95 90) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp ec35c298-2603-4076-aa3d-a7d609e55eef))
     (pad "6" thru_hole circle (at 6.25 -3.95 90) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask" "B.SilkS") (tstamp 660a56f5-0b12-4afd-897e-8fad129a2e5f))
+    (model "${KIPRJMOD}/3D Model/M8S-04PFFR-SF8001-STP.stp"
+      (offset (xyz 0 8.5 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
@@ -7618,6 +7633,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/3D Model/NEO-7M-0.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -90))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
@@ -9379,11 +9399,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-68E0D6FC" (at 0 -3.822152 90) (layer "F.SilkS") hide
         (effects (font (size 0 0) (thickness 0.15)))
-      (tstamp a3197e7c-6af7-4558-a81d-f8d784f57438)
+      (tstamp 5f316dc4-4e76-49d5-bf6d-63fb49fc9e9a)
     )
     (fp_text value "G***" (at 0 3.822152 90) (layer "F.SilkS") hide
         (effects (font (size 0 0) (thickness 0.15)))
-      (tstamp 0b0a3a93-3a25-4fdb-ab53-46068486d7f1)
+      (tstamp b79afe69-cf20-4076-86a8-ce498c59264b)
     )
     (fp_poly
       (pts
@@ -9481,7 +9501,7 @@
         (xy -0.923748 -0.774152)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 74aa80ad-b63c-4c18-b053-c9b4504bf084))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6c91f7fc-5e26-43f5-a821-db3ea22db819))
   )
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
@@ -10655,6 +10675,11 @@
       (net 4 "GND") (pintype "passive") (tstamp 31ceded9-e113-493b-a7fb-283421c800ec))
     (pad "5" thru_hole circle (at -6.25 -3.95 90) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 5410f04a-2700-40ca-907d-0d871a06fee4))
     (pad "6" thru_hole circle (at 6.25 -3.95 90) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask" "B.SilkS") (tstamp b09b82b2-1652-426b-b399-bd5a7ec1b4ce))
+    (model "${KIPRJMOD}/3D Model/M8S-04PFFR-SF8001-STP.stp"
+      (offset (xyz 0 8.5 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
@@ -11222,6 +11247,11 @@
       (net 4 "GND") (pintype "passive") (tstamp 8300d7fa-04bf-44b0-8cb7-a02ce1a5a42a))
     (pad "5" thru_hole circle (at -6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 5a96f83a-172a-433c-8947-061ef9c8369a))
     (pad "6" thru_hole circle (at 6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask" "B.SilkS") (tstamp 6771e626-ae68-4862-b8ab-ff1cfac509e2))
+    (model "${KIPRJMOD}/3D Model/M8S-04PFFR-SF8001-STP.stp"
+      (offset (xyz 0 8.5 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
@@ -11437,6 +11467,11 @@
     (pad "S1" thru_hole oval (at 4.32 1.05 270) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp ac798317-4469-43c1-a5b1-010bfe02df38))
     (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12214,6 +12249,11 @@
       (net 4 "GND") (pintype "passive") (tstamp 553aa55b-bdd4-4b99-b8c6-872fcf0fc009))
     (pad "5" thru_hole circle (at -6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp b9f15a99-35db-4d9d-9f82-de0f0c06fb25))
     (pad "6" thru_hole circle (at 6.25 -3.95 270) (size 3.5 3.5) (drill 3) (layers "*.Cu" "*.Mask" "B.SilkS") (tstamp a9605f21-cf18-4167-9820-f46e98098f88))
+    (model "${KIPRJMOD}/3D Model/M8S-04PFFR-SF8001-STP.stp"
+      (offset (xyz 0 8.5 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" (layer "F.Cu")
