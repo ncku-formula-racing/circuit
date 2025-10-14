@@ -5797,7 +5797,7 @@
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp c76bf684-3007-4e23-858c-1716fa5130e9))
   (gr_arc (start 68.3 86.6) (mid 65.825126 85.574874) (end 64.8 83.1)
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp f72a8387-4ee5-433f-a4de-42d86562cd83))
-  (gr_text "NCKU\nFormula Racing\nFuse Box\nRev. 2025.03" (at 67 44.8 270) (layer "F.SilkS") (tstamp 59245d00-1fee-4cb8-80c9-090e7eb7a3a0)
+  (gr_text "NCKU\nFormula Racing\nFuse Box\nRev. 2025.10" (at 67 44.8 270) (layer "F.SilkS") (tstamp 59245d00-1fee-4cb8-80c9-090e7eb7a3a0)
     (effects (font (size 0.8 0.8) (thickness 0.15) bold italic) (justify left bottom))
   )
   (gr_text "-" (at 92.3 83.6 -90) (layer "F.SilkS") (tstamp a1c12fad-b9e6-4cde-9ae4-7216ef9d5ba3)

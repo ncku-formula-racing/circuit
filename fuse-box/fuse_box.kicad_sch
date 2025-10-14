@@ -5,7 +5,8 @@
   (paper "A5")
 
   (title_block
-    (date "2025-03-14")
+    (date "2025-10-14")
+    (rev "v2025.10")
     (company "NCKU Formula Racing")
   )
 
