@@ -5923,7 +5923,7 @@
   (gr_text "+" (at 78.29 81.75) (layer "F.SilkS") (tstamp 3e8369f2-e4f1-4892-ba55-80dcbe94f6db)
     (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
   )
-  (gr_text "break-light\n2025.10" (at 39.6 20.6 -90) (layer "F.SilkS") (tstamp 4b54da65-04c9-48dd-8468-441204655afd)
+  (gr_text "brake-light\n2025.10" (at 39.6 20.6 270) (layer "F.SilkS") (tstamp 4b54da65-04c9-48dd-8468-441204655afd)
     (effects (font (size 1 1) (thickness 0.2) bold italic) (justify left bottom))
   )
   (gr_text "+ - D L CLK" (at 45.26 23.74) (layer "F.SilkS") (tstamp c458a037-8ee0-479d-b110-0459e9a175b8)
