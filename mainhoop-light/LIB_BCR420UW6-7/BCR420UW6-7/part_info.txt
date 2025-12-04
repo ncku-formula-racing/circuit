@@ -1,9 +1,0 @@
-Manufacturer=Diodes Incorporated
-PartNumber=BCR420UW6-7
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (6-Pin)
-PinCount=6
-Version=4.1
-Released=2020-07-23 03:03:01
-Downloaded=2025-01-23 08:43:03
-3D=Y

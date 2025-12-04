@@ -1,9 +1,0 @@
-Manufacturer=Würth Elektronik
-PartNumber=150505RS73300
-PartCategory=LED (Multiple)
-PackageCategory=Other
-PinCount=6
-Version=2.6
-Released=2020-09-17 09:33:09
-Downloaded=2025-01-23 08:03:34
-3D=Y

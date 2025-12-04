@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BCR420UW6-7
-D LED Lighting Drivers 10mA LED Curr Reg 350mA 40V 10kHz
-K
-F https://www.mouser.fr/datasheet/2/115/BCR420UW6_BCR421UW7-1511721.pdf
-$ENDCMP
-#
-#End Doc Library
