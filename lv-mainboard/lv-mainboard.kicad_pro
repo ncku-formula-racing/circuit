@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 0.0,
+          "height": 0.95,
+          "width": 0.8
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,16 +48,10 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.25
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -177,17 +171,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.0,
-        0.2,
-        0.25,
-        0.3,
-        0.5,
-        0.8,
-        1.0,
-        1.5
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -214,12 +198,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -452,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "lv_mainboard.kicad_pro",
+    "filename": "lv-mainboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -597,8 +576,8 @@
   },
   "sheets": [
     [
-      "662b202c-dd22-4787-a65a-3ed01142d930",
-      ""
+      "07656c00-5c38-48d1-b90a-5b5073ec1124",
+      "Root"
     ]
   ],
   "text_variables": {}
