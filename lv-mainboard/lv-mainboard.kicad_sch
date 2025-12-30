@@ -6485,6 +6485,28 @@
 			)
 		)
 	)
+	(global_label "P8"
+		(shape input)
+		(at 33.02 193.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0e728686-1db0-425d-a312-b56a32e7f896")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.5553 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BSPD"
 		(shape input)
 		(at 69.85 121.92 180)
@@ -8538,29 +8560,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E2"
-		(shape input)
-		(at 33.02 193.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 255 255 1)
-			)
-			(justify right)
-		)
-		(uuid "9b8079c0-e7ca-43b4-a6f6-ea12ed68e439")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.6763 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
