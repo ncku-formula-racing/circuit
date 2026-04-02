@@ -431,7 +431,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -550,7 +550,7 @@
       "sort_asc": true,
       "sort_field": "Reference"
     },
-    "connection_grid_size": 50.0,
+    "connection_grid_size": 25.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
       "dashed_lines_gap_length_ratio": 3.0,
@@ -562,7 +562,7 @@
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
-      "junction_size_choice": 3,
+      "junction_size_choice": 2,
       "label_size_ratio": 0.375,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
@@ -592,7 +592,7 @@
   "sheets": [
     [
       "89b78632-2ae8-4b6b-a96e-85b5cad19713",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}
