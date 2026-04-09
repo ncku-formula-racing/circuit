@@ -5,8 +5,8 @@
 	(uuid "89b78632-2ae8-4b6b-a96e-85b5cad19713")
 	(paper "A2")
 	(title_block
-		(date "2025-08-03")
-		(rev "v2025.08")
+		(date "2026-04-03")
+		(rev "v2026.04")
 	)
 	(lib_symbols
 		(symbol "74xGxx:74LVC1G08"
