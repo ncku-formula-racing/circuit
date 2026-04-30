@@ -11529,7 +11529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 335.28 0)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 248.285 0)
 			(effects
 				(font
@@ -12356,7 +12356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 201.93 0)
 			(effects
 				(font
@@ -12695,7 +12695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 297.18 0)
 			(effects
 				(font
@@ -13318,7 +13318,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 286.385 0)
 			(effects
 				(font
@@ -13456,7 +13456,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 95.885 0)
 			(effects
 				(font
@@ -14078,7 +14078,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 210.185 0)
 			(effects
 				(font
@@ -14768,7 +14768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 240.03 0)
 			(effects
 				(font
@@ -14838,7 +14838,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 343.535 0)
 			(effects
 				(font
@@ -14975,7 +14975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 153.035 0)
 			(effects
 				(font
@@ -15380,7 +15380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 87.63 0)
 			(effects
 				(font
@@ -15582,7 +15582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 259.08 0)
 			(effects
 				(font
@@ -16197,7 +16197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 316.23 0)
 			(effects
 				(font
@@ -17080,7 +17080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 125.73 0)
 			(effects
 				(font
@@ -17493,7 +17493,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 114.935 0)
 			(effects
 				(font
@@ -17561,7 +17561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 144.78 0)
 			(effects
 				(font
@@ -17629,7 +17629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 220.98 0)
 			(effects
 				(font
@@ -17975,7 +17975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 229.235 0)
 			(effects
 				(font
@@ -18183,7 +18183,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 133.985 0)
 			(effects
 				(font
@@ -19550,7 +19550,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 324.485 0)
 			(effects
 				(font
@@ -19759,7 +19759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 191.135 0)
 			(effects
 				(font
@@ -20357,7 +20357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 305.435 0)
 			(effects
 				(font
@@ -20491,7 +20491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 106.68 0)
 			(effects
 				(font
@@ -20704,7 +20704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 172.085 0)
 			(effects
 				(font
@@ -21247,7 +21247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 354.33 0)
 			(effects
 				(font
@@ -21937,7 +21937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 43.815 267.335 0)
 			(effects
 				(font
@@ -23519,7 +23519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 163.83 0)
 			(effects
 				(font
@@ -23791,7 +23791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 278.13 0)
 			(effects
 				(font
@@ -24484,7 +24484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
+		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
 			(at 36.83 182.88 0)
 			(effects
 				(font
