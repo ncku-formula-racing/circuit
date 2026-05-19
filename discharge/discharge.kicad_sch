@@ -1926,12 +1926,6 @@
 		(uuid "6d01274d-0398-406c-a5b2-353c0a34104f")
 	)
 	(junction
-		(at 158.75 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7119d369-d691-43ad-8aa9-c5ce6dff75ae")
-	)
-	(junction
 		(at 162.56 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2356,16 +2350,6 @@
 			(type default)
 		)
 		(uuid "d9421eb5-4985-490d-94d9-101093d795b5")
-	)
-	(wire
-		(pts
-			(xy 160.02 83.82) (xy 158.75 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d965a2a5-ebc1-4620-9944-6bbce511f50e")
 	)
 	(wire
 		(pts
@@ -3283,7 +3267,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "470c1e41-2ca4-49ac-8300-895d1ee63ff6")
 		(property "Reference" "#PWR15"
 			(at 40.64 102.87 0)
@@ -3295,11 +3278,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.64 101.6 0)
+			(at 37.592 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
