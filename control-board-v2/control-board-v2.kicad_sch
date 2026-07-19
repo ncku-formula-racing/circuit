@@ -11,6 +11,362 @@
 		(company "NCKU Formula Racing")
 	)
 	(lib_symbols
+		(symbol "BAT46W-7-F:BAT46W-7-F"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -5.08 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "BAT46W-7-F"
+				(at -5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Diodes Inc."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "SOD-123 Fairchild Semiconductor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "IPC-7351B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "18 - 2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "BAT46W-7-F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Diodes Inc."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "BAT46W-7-F_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -1.016) (xy 0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 1.27) (xy 1.905 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -3225,327 +3581,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Diode:BAT54SW"
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0.635 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "BAT54SW"
-				(at -6.35 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-				(at 1.905 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"
-				(at -3.048 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "dual schottky diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?323*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BAT54SW_0_1"
-				(polyline
-					(pts
-						(xy -3.81 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.175 -1.27) (xy -3.175 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.27) (xy -3.175 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.27) (xy -1.905 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 1.27) (xy -1.905 1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 3.81 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 -1.27) (xy 3.175 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -1.27) (xy 3.175 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -1.27) (xy 3.81 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 1.27) (xy 4.445 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 1.27) (xy 4.445 1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 1.27) (xy -4.445 -1.27) (xy -2.54 0) (xy -4.445 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 1.27) (xy 1.905 -1.27) (xy 3.81 0) (xy 1.905 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "BAT54SW_1_1"
-				(pin passive line
-					(at -7.62 0 0)
-					(length 3.81)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 5.08)
-					(name "COM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7611,7 +7646,13 @@
 		)
 	)
 	(junction
-		(at 168.91 176.53)
+		(at 175.26 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "011bd8c2-f3b3-4a37-bc43-4ab8243385e9")
+	)
+	(junction
+		(at 184.15 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03502547-c738-4d2f-8060-5fdade1260e6")
@@ -7623,7 +7664,7 @@
 		(uuid "0833eea3-f4a0-47ed-9a02-c68ed949af3b")
 	)
 	(junction
-		(at 168.91 184.15)
+		(at 184.15 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09f8face-c85d-4942-af2d-3c185ef50b40")
@@ -7683,16 +7724,22 @@
 		(uuid "1951751c-5ca3-4f62-bf73-075d4566e136")
 	)
 	(junction
-		(at 209.55 185.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a5a1e9d-6121-4f16-b6f1-f9ca439f15bc")
-	)
-	(junction
 		(at 298.45 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c75a719-6aaa-4b8c-ac9a-d5417d61e9d6")
+	)
+	(junction
+		(at 157.48 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2093d847-f4b1-4d6b-8683-0cd0fe2b40a8")
+	)
+	(junction
+		(at 205.74 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22d405bf-3d71-4426-9a99-a50327f72724")
 	)
 	(junction
 		(at 367.03 62.23)
@@ -7719,12 +7766,6 @@
 		(uuid "32829dfc-b7bb-4e95-800f-34afd0a0db24")
 	)
 	(junction
-		(at 161.29 217.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34c1568d-2d31-43be-97ce-b43919d1ed8f")
-	)
-	(junction
 		(at 298.45 41.275)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7741,6 +7782,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b8f3ca2-d170-4d11-8134-0e42ae54ed39")
+	)
+	(junction
+		(at 157.48 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "403b0cd1-fc1e-4633-a40e-96f9eea2c2ac")
 	)
 	(junction
 		(at 86.36 35.56)
@@ -7779,12 +7826,6 @@
 		(uuid "5d8a8195-a558-4227-adf5-54aa483542d4")
 	)
 	(junction
-		(at 209.55 217.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6021f89e-dc4e-4029-82cd-1409fe398714")
-	)
-	(junction
 		(at 46.99 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7797,13 +7838,7 @@
 		(uuid "62430e84-fda2-49ef-b0a4-47faf970876d")
 	)
 	(junction
-		(at 160.02 184.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "63a79ae8-fd77-4653-b77b-ea0c1c062e8d")
-	)
-	(junction
-		(at 170.18 217.17)
+		(at 166.37 219.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "644d895f-3fcf-45c2-afb4-8aaf19287bd0")
@@ -7815,7 +7850,7 @@
 		(uuid "6c263047-9bd6-4e5d-afcc-1063e459ac8f")
 	)
 	(junction
-		(at 218.44 177.8)
+		(at 233.68 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ffe616e-f1d8-4186-84d5-fac5d27c216f")
@@ -7929,13 +7964,25 @@
 		(uuid "9176f6c1-9495-41bb-8fda-37efed31cfea")
 	)
 	(junction
-		(at 218.44 217.17)
+		(at 224.79 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "948fcb1a-862a-4985-9335-68f0a95040c1")
+	)
+	(junction
+		(at 214.63 219.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96cbedc7-f522-4fd1-a7b4-9452a0fa7470")
 	)
 	(junction
-		(at 218.44 209.55)
+		(at 205.74 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a5597d6-27e9-45e7-a18f-6a84f8f3d7c9")
+	)
+	(junction
+		(at 214.63 212.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a679787-98fc-4d01-9348-fff6f5a83567")
@@ -7965,7 +8012,7 @@
 		(uuid "b7e406a6-904e-4166-a6af-4540c5127937")
 	)
 	(junction
-		(at 170.18 209.55)
+		(at 166.37 212.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bee5fe91-1595-410a-abe4-d435fd152311")
@@ -8049,6 +8096,12 @@
 		(uuid "ea2002e7-de89-423b-b8ce-470ebec03a4d")
 	)
 	(junction
+		(at 224.79 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea5e811b-b8bf-4e26-a748-d8a039b32f82")
+	)
+	(junction
 		(at 234.95 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8059,6 +8112,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee3f9afb-05c0-4948-96d6-eb7d2910121c")
+	)
+	(junction
+		(at 175.26 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee57827d-8379-404d-969d-e5bede4c861f")
 	)
 	(junction
 		(at 211.455 242.57)
@@ -8103,7 +8162,7 @@
 		(uuid "fd5794e0-cf46-4046-bc52-0fccfc57b151")
 	)
 	(junction
-		(at 218.44 185.42)
+		(at 233.68 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe471977-3de2-41cd-8acd-560aa161e80e")
@@ -8454,7 +8513,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 185.42) (xy 218.44 185.42)
+			(xy 224.79 182.88) (xy 233.68 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8524,7 +8583,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 209.55) (xy 170.18 209.55)
+			(xy 162.56 212.09) (xy 166.37 212.09)
 		)
 		(stroke
 			(width 0)
@@ -8554,7 +8613,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 177.8) (xy 234.95 180.34)
+			(xy 250.19 175.26) (xy 250.19 177.8)
 		)
 		(stroke
 			(width 0)
@@ -8564,7 +8623,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 185.42) (xy 234.95 185.42)
+			(xy 233.68 182.88) (xy 250.19 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8581,6 +8640,16 @@
 			(type default)
 		)
 		(uuid "21365016-d411-4faf-9d97-f6513876c76d")
+	)
+	(wire
+		(pts
+			(xy 224.79 158.75) (xy 224.79 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e538d9-1c04-466d-b146-5d55b7ecd453")
 	)
 	(wire
 		(pts
@@ -8604,7 +8673,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 209.55) (xy 226.06 209.55)
+			(xy 214.63 212.09) (xy 222.25 212.09)
 		)
 		(stroke
 			(width 0)
@@ -8854,7 +8923,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 184.15) (xy 168.91 184.15)
+			(xy 175.26 181.61) (xy 184.15 181.61)
 		)
 		(stroke
 			(width 0)
@@ -8934,6 +9003,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 173.99) (xy 180.34 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b776789-5c8e-4650-a242-7d4b2ad21306")
+	)
+	(wire
+		(pts
 			(xy 172.72 27.94) (xy 175.26 27.94)
 		)
 		(stroke
@@ -9004,7 +9083,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 176.53) (xy 168.91 176.53)
+			(xy 180.34 173.99) (xy 184.15 173.99)
 		)
 		(stroke
 			(width 0)
@@ -9034,7 +9113,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 177.8) (xy 218.44 177.8)
+			(xy 229.87 175.26) (xy 233.68 175.26)
 		)
 		(stroke
 			(width 0)
@@ -9081,6 +9160,16 @@
 			(type default)
 		)
 		(uuid "59437400-c936-42cb-a726-0b64d0fcc3e2")
+	)
+	(wire
+		(pts
+			(xy 157.48 195.58) (xy 157.48 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3e95ac-5508-4d01-b11e-9e8f4a3ccda7")
 	)
 	(wire
 		(pts
@@ -9234,7 +9323,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 209.55) (xy 186.69 212.09)
+			(xy 182.88 212.09) (xy 182.88 214.63)
 		)
 		(stroke
 			(width 0)
@@ -9254,6 +9343,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 195.58) (xy 205.74 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69bfa2ac-7ae8-4780-94fe-d6c4b9f87c3d")
+	)
+	(wire
+		(pts
 			(xy 367.03 46.99) (xy 367.03 44.45)
 		)
 		(stroke
@@ -9261,6 +9360,16 @@
 			(type default)
 		)
 		(uuid "69f04413-15cc-4214-af4b-c4ce8d8faf9e")
+	)
+	(wire
+		(pts
+			(xy 210.82 212.09) (xy 210.82 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b479657-a8db-447e-9900-c9eb0a91398f")
 	)
 	(wire
 		(pts
@@ -9281,6 +9390,16 @@
 			(type default)
 		)
 		(uuid "6ddeb710-14c3-41da-8ed0-cb0e456ee85f")
+	)
+	(wire
+		(pts
+			(xy 162.56 212.09) (xy 162.56 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f7c54bb-c31d-48e1-87c4-9e09f1b21410")
 	)
 	(wire
 		(pts
@@ -9331,6 +9450,16 @@
 			(type default)
 		)
 		(uuid "7393e5d6-dbf6-432a-9add-7c86df6b8f01")
+	)
+	(wire
+		(pts
+			(xy 157.48 218.44) (xy 157.48 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a67c65-b971-4d36-88ad-2ba7913553cf")
 	)
 	(wire
 		(pts
@@ -9424,7 +9553,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 209.55) (xy 233.68 210.82)
+			(xy 229.87 212.09) (xy 229.87 213.36)
 		)
 		(stroke
 			(width 0)
@@ -9434,13 +9563,33 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 176.53) (xy 186.69 177.8)
+			(xy 201.93 173.99) (xy 201.93 175.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7b18eb4c-a49d-432f-a9de-6691e1108b4a")
+	)
+	(wire
+		(pts
+			(xy 162.56 208.28) (xy 157.48 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bb083ab-0383-4215-9d3e-c2f12f83342a")
+	)
+	(wire
+		(pts
+			(xy 157.48 207.01) (xy 157.48 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cd94855-9a46-4eba-9eaa-9ac7308984fa")
 	)
 	(wire
 		(pts
@@ -9504,7 +9653,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 217.17) (xy 170.18 217.17)
+			(xy 157.48 219.71) (xy 166.37 219.71)
 		)
 		(stroke
 			(width 0)
@@ -9534,7 +9683,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 209.55) (xy 177.8 209.55)
+			(xy 166.37 212.09) (xy 173.99 212.09)
 		)
 		(stroke
 			(width 0)
@@ -9584,7 +9733,17 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 215.9) (xy 233.68 217.17)
+			(xy 175.26 157.48) (xy 175.26 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eebf115-92f3-404f-a5d0-459bce0c10ce")
+	)
+	(wire
+		(pts
+			(xy 229.87 218.44) (xy 229.87 219.71)
 		)
 		(stroke
 			(width 0)
@@ -9621,6 +9780,16 @@
 			(type default)
 		)
 		(uuid "915a541b-05f8-462a-a252-25cbe03dbd93")
+	)
+	(wire
+		(pts
+			(xy 224.79 170.18) (xy 224.79 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91ee3273-b9a8-4704-bad5-8436f049f2cd")
 	)
 	(wire
 		(pts
@@ -9684,7 +9853,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 209.55) (xy 218.44 209.55)
+			(xy 210.82 212.09) (xy 214.63 212.09)
 		)
 		(stroke
 			(width 0)
@@ -9804,7 +9973,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 217.17) (xy 186.69 217.17)
+			(xy 166.37 219.71) (xy 182.88 219.71)
 		)
 		(stroke
 			(width 0)
@@ -9834,6 +10003,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 208.28) (xy 205.74 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a192492a-4774-4580-8eaa-b4096ddebfaa")
+	)
+	(wire
+		(pts
 			(xy 319.405 40.005) (xy 319.405 43.18)
 		)
 		(stroke
@@ -9844,7 +10023,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 176.53) (xy 176.53 176.53)
+			(xy 184.15 173.99) (xy 191.77 173.99)
 		)
 		(stroke
 			(width 0)
@@ -9874,6 +10053,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 175.26) (xy 229.87 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e5ef6d-faf3-47a6-a326-663f1628f3a6")
+	)
+	(wire
+		(pts
 			(xy 255.27 33.02) (xy 257.81 33.02)
 		)
 		(stroke
@@ -9884,7 +10073,17 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 177.8) (xy 226.06 177.8)
+			(xy 175.26 168.91) (xy 175.26 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a909f975-4fe7-4f11-985d-e825b8976fd6")
+	)
+	(wire
+		(pts
+			(xy 233.68 175.26) (xy 241.3 175.26)
 		)
 		(stroke
 			(width 0)
@@ -9894,7 +10093,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 176.53) (xy 181.61 176.53)
+			(xy 201.93 173.99) (xy 196.85 173.99)
 		)
 		(stroke
 			(width 0)
@@ -9914,7 +10113,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 209.55) (xy 231.14 209.55)
+			(xy 229.87 212.09) (xy 227.33 212.09)
 		)
 		(stroke
 			(width 0)
@@ -10024,7 +10223,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 184.15) (xy 168.91 184.15)
+			(xy 201.93 181.61) (xy 184.15 181.61)
 		)
 		(stroke
 			(width 0)
@@ -10111,6 +10310,16 @@
 			(type default)
 		)
 		(uuid "bc436c1a-93b8-40f5-8e7b-9a28d16acb9e")
+	)
+	(wire
+		(pts
+			(xy 175.26 180.34) (xy 175.26 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca43dc8-1832-4d17-96d6-e262db97f963")
 	)
 	(wire
 		(pts
@@ -10254,6 +10463,26 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 207.01) (xy 205.74 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b8f952-7be6-4c96-92b1-5196ec9221a9")
+	)
+	(wire
+		(pts
+			(xy 229.87 171.45) (xy 224.79 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cafaaf1f-21c1-4b7b-a897-ef44a0ab6cd1")
+	)
+	(wire
+		(pts
 			(xy 202.565 251.46) (xy 241.935 251.46)
 		)
 		(stroke
@@ -10344,13 +10573,23 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 217.17) (xy 218.44 217.17)
+			(xy 205.74 219.71) (xy 214.63 219.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d449a759-71eb-4976-9f74-bff44ae9eb08")
+	)
+	(wire
+		(pts
+			(xy 224.79 181.61) (xy 224.79 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5b1fe8a-a3eb-48cb-b2c2-d2fbec00cd9d")
 	)
 	(wire
 		(pts
@@ -10371,6 +10610,16 @@
 			(type default)
 		)
 		(uuid "d68737c0-0976-49c7-8d7b-483770009c55")
+	)
+	(wire
+		(pts
+			(xy 205.74 218.44) (xy 205.74 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c6cb27-5767-4db7-b160-0605fdd2cecf")
 	)
 	(wire
 		(pts
@@ -10434,7 +10683,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 177.8) (xy 231.14 177.8)
+			(xy 250.19 175.26) (xy 246.38 175.26)
 		)
 		(stroke
 			(width 0)
@@ -10454,7 +10703,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 217.17) (xy 218.44 217.17)
+			(xy 229.87 219.71) (xy 214.63 219.71)
 		)
 		(stroke
 			(width 0)
@@ -10634,7 +10883,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 182.88) (xy 186.69 184.15)
+			(xy 201.93 180.34) (xy 201.93 181.61)
 		)
 		(stroke
 			(width 0)
@@ -10654,7 +10903,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 209.55) (xy 182.88 209.55)
+			(xy 182.88 212.09) (xy 179.07 212.09)
 		)
 		(stroke
 			(width 0)
@@ -10681,6 +10930,16 @@
 			(type default)
 		)
 		(uuid "fef4f4cc-cbd9-4690-98e7-c7a5587bd799")
+	)
+	(wire
+		(pts
+			(xy 180.34 170.18) (xy 175.26 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fffef1e7-5404-41cc-bc3e-1aa7b89b3662")
 	)
 	(rectangle
 		(start 340.36 12.065)
@@ -10788,7 +11047,7 @@
 	)
 	(text "ADC"
 		(exclude_from_sim no)
-		(at 150.876 157.988 0)
+		(at 148.844 157.734 0)
 		(effects
 			(font
 				(size 4 4)
@@ -10958,7 +11217,7 @@
 	)
 	(global_label "ADC_APPS1"
 		(shape input)
-		(at 168.91 176.53 90)
+		(at 184.15 173.99 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10968,7 +11227,7 @@
 		)
 		(uuid "0918e1f1-3033-4afb-8504-96c80cc501d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.91 162.901 90)
+			(at 184.15 160.361 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11090,7 +11349,7 @@
 	)
 	(global_label "APPS2_in"
 		(shape input)
-		(at 186.69 209.55 90)
+		(at 182.88 212.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11100,7 +11359,7 @@
 		)
 		(uuid "12759540-2a46-40b7-86dc-5d83ad975e98")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 197.7958 90)
+			(at 182.88 200.3358 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11376,7 +11635,7 @@
 	)
 	(global_label "APPS1_in"
 		(shape input)
-		(at 186.69 176.53 90)
+		(at 201.93 173.99 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11386,7 +11645,7 @@
 		)
 		(uuid "2e291285-c327-4df5-a676-e92a148e66b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 164.7758 90)
+			(at 201.93 162.2358 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11882,7 +12141,7 @@
 	)
 	(global_label "ADC_STEER"
 		(shape input)
-		(at 218.44 209.55 90)
+		(at 214.63 212.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11892,7 +12151,7 @@
 		)
 		(uuid "85273d43-5b15-47b2-b36e-525268808db5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.44 196.2235 90)
+			(at 214.63 198.7635 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11904,7 +12163,7 @@
 	)
 	(global_label "ADC_APPS2"
 		(shape input)
-		(at 170.18 209.55 90)
+		(at 166.37 212.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11914,7 +12173,7 @@
 		)
 		(uuid "94057abc-5078-400f-9bdf-97bd2f497b26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.18 195.921 90)
+			(at 166.37 198.461 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12190,7 +12449,7 @@
 	)
 	(global_label "ADC_BPPS"
 		(shape input)
-		(at 218.44 177.8 90)
+		(at 233.68 175.26 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12200,7 +12459,7 @@
 		)
 		(uuid "c127d5ad-6c66-403b-8a58-d17a6a0a5ed3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.44 165.1991 90)
+			(at 233.68 162.6591 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12234,7 +12493,7 @@
 	)
 	(global_label "BPPS_in"
 		(shape input)
-		(at 234.95 177.8 90)
+		(at 250.19 175.26 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12244,7 +12503,7 @@
 		)
 		(uuid "c7054dba-d4b5-4630-a524-5d050e2157ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.95 167.0739 90)
+			(at 250.19 164.5339 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12498,7 +12757,7 @@
 	)
 	(global_label "STEER_in"
 		(shape input)
-		(at 233.68 209.55 90)
+		(at 229.87 212.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12508,7 +12767,7 @@
 		)
 		(uuid "fed25efe-efb3-42ad-949f-03dea7b1ea9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.68 198.0983 90)
+			(at 229.87 200.6383 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12520,7 +12779,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 181.61 0)
+		(at 233.68 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12528,7 +12787,7 @@
 		(dnp no)
 		(uuid "01768698-b25d-44ef-9749-37e477548ba6")
 		(property "Reference" "C24"
-			(at 221.742 180.086 0)
+			(at 236.982 177.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12537,7 +12796,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 222.25 182.8799 0)
+			(at 237.49 180.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12546,7 +12805,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 219.4052 185.42 0)
+			(at 234.6452 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12555,7 +12814,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12564,7 +12823,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12573,7 +12832,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12582,7 +12841,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12591,7 +12850,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12600,7 +12859,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12609,7 +12868,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12618,7 +12877,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12627,7 +12886,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 218.44 181.61 0)
+			(at 233.68 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12982,16 +13241,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 160.02 184.15 0)
+		(at 175.26 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "08b7b8d7-f057-4607-a0f5-1467ef715aac")
 		(property "Reference" "#PWR054"
-			(at 160.02 190.5 0)
+			(at 175.26 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13000,7 +13258,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.02 190.5 0)
+			(at 175.26 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13008,7 +13266,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 184.15 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13017,7 +13275,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 184.15 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13026,7 +13284,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 184.15 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13715,16 +13973,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 185.42 0)
+		(at 224.79 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1144efc4-49f9-484a-a708-de13aefb89b0")
 		(property "Reference" "#PWR21"
-			(at 209.55 191.77 0)
+			(at 224.79 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13733,7 +13990,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 191.77 0)
+			(at 224.79 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13741,7 +13998,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 185.42 0)
+			(at 224.79 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13750,7 +14007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 185.42 0)
+			(at 224.79 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13759,7 +14016,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 185.42 0)
+			(at 224.79 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15315,6 +15572,196 @@
 		)
 	)
 	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 205.74 213.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1eb9cd52-49c3-463e-83aa-4c3fbcb84904")
+		(property "Reference" "D17"
+			(at 191.516 213.614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 191.516 216.154 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f836d92-4679-4639-a190-5bf802d70f8b")
+		)
+		(pin "2"
+			(uuid "f8d7e733-ca67-4388-85de-0869321cb043")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 246.38 33.02 0)
 		(unit 1)
@@ -15915,6 +16362,196 @@
 			(project "control-board-v2"
 				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
 					(reference "#PWR34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 157.48 213.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "279c654e-0dae-46c4-9509-aad68383f9ab")
+		(property "Reference" "D20"
+			(at 143.256 213.614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 143.256 216.154 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 157.48 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf824294-1f9d-4047-ad47-55c9f1233d5c")
+		)
+		(pin "2"
+			(uuid "6b00cfb6-a86a-4655-98a3-638cfbe1986a")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -17272,7 +17909,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 186.69 214.63 0)
+		(at 182.88 217.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17281,7 +17918,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f746bec-edc5-4c3d-8186-d383d62a227b")
 		(property "Reference" "R23"
-			(at 189.23 213.3599 0)
+			(at 185.42 215.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17290,7 +17927,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 189.23 215.8999 0)
+			(at 185.42 218.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17299,7 +17936,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17308,7 +17945,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17317,7 +17954,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17326,7 +17963,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17335,7 +17972,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17344,7 +17981,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17353,7 +17990,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17362,7 +17999,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17371,7 +18008,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17380,7 +18017,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 186.69 214.63 0)
+			(at 182.88 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18809,143 +19446,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BAT54SW")
-		(at 209.55 177.8 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "54fbfa97-65ac-43f3-b351-0939a1186492")
-		(property "Reference" "D2"
-			(at 207.01 176.5299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BAT54SW"
-			(at 207.01 179.0699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 206.375 175.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"
-			(at 209.55 180.848 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 209.55 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "51e14fae-fcb8-4384-84f5-bb79747145b0")
-		)
-		(pin "2"
-			(uuid "dd34d55c-a870-43a7-a427-abd7914316b2")
-		)
-		(pin "1"
-			(uuid "fd86277d-57bf-4cb0-891d-0acfe82b39be")
-		)
-		(instances
-			(project "control-board-v2"
-				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 284.48 204.47 0)
 		(unit 1)
@@ -19078,7 +19578,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 161.29 201.93 0)
+		(at 157.48 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19087,7 +19587,7 @@
 		(fields_autoplaced yes)
 		(uuid "56e6016c-0e51-4919-8e8c-86b742c9787a")
 		(property "Reference" "#PWR47"
-			(at 161.29 205.74 0)
+			(at 157.48 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19096,7 +19596,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 161.29 196.85 0)
+			(at 157.48 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19104,7 +19604,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 201.93 0)
+			(at 157.48 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19113,7 +19613,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 201.93 0)
+			(at 157.48 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19122,7 +19622,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 201.93 0)
+			(at 157.48 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20071,145 +20571,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BAT54SW")
-		(at 161.29 209.55 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6093270f-4c85-4c5a-ac35-020b4498ee7c")
-		(property "Reference" "D13"
-			(at 158.75 208.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BAT54SW"
-			(at 158.75 210.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 158.115 207.645 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"
-			(at 161.29 212.598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 161.29 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "7dedc36e-f84a-4a2c-a5cc-a0165aa28204")
-		)
-		(pin "2"
-			(uuid "f8461baa-e9f6-4f30-8d71-1f7413efd5b5")
-		)
-		(pin "1"
-			(uuid "970eb1e3-b8a9-450d-b52b-e4c50d8eb0a3")
-		)
-		(instances
-			(project "control-board-v2"
-				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 180.34 209.55 270)
+		(at 176.53 212.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20218,7 +20581,7 @@
 		(fields_autoplaced yes)
 		(uuid "61948a05-67d9-47c2-9b6f-294ab1e4098e")
 		(property "Reference" "R7"
-			(at 181.6101 212.09 0)
+			(at 177.8001 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20227,7 +20590,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 179.0701 212.09 0)
+			(at 175.2601 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20236,7 +20599,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20245,7 +20608,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20254,7 +20617,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20263,7 +20626,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20272,7 +20635,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20281,7 +20644,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20290,7 +20653,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20299,7 +20662,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20308,7 +20671,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20317,7 +20680,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 180.34 209.55 0)
+			(at 176.53 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20541,7 +20904,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 209.55 201.93 0)
+		(at 205.74 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20550,7 +20913,7 @@
 		(fields_autoplaced yes)
 		(uuid "66cdcafa-ff79-47d1-b613-30acaa4f03cf")
 		(property "Reference" "#PWR50"
-			(at 209.55 205.74 0)
+			(at 205.74 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20559,7 +20922,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 209.55 196.85 0)
+			(at 205.74 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20567,7 +20930,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 201.93 0)
+			(at 205.74 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20576,7 +20939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 201.93 0)
+			(at 205.74 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20585,7 +20948,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 201.93 0)
+			(at 205.74 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20903,7 +21266,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 213.36 0)
+		(at 214.63 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20911,7 +21274,7 @@
 		(dnp no)
 		(uuid "683f7178-5f00-4fb9-bb6f-af2f1ab07a6a")
 		(property "Reference" "C36"
-			(at 221.742 211.836 0)
+			(at 217.932 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20920,7 +21283,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 222.25 214.6299 0)
+			(at 218.44 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20929,7 +21292,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 219.4052 217.17 0)
+			(at 215.5952 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20938,7 +21301,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20947,7 +21310,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20956,7 +21319,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20965,7 +21328,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20974,7 +21337,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20983,7 +21346,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20992,7 +21355,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21001,7 +21364,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21010,7 +21373,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 218.44 213.36 0)
+			(at 214.63 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22669,6 +23032,196 @@
 		)
 	)
 	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 175.26 175.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "80ba6c19-8d8c-4f6f-9c32-d144fecc59cd")
+		(property "Reference" "D11"
+			(at 161.036 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 161.036 178.054 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 175.26 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43d97746-e9b5-470a-ac34-bb6b1e0d329b")
+		)
+		(pin "2"
+			(uuid "cbc9852a-7de9-47b1-ae68-e21312a9ee4c")
+		)
+		(instances
+			(project ""
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 120.65 264.16 0)
 		(unit 1)
@@ -22950,7 +23503,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 234.95 182.88 0)
+		(at 250.19 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22959,7 +23512,7 @@
 		(fields_autoplaced yes)
 		(uuid "84ce27ad-8390-4592-97ac-a028a4e5ebae")
 		(property "Reference" "R24"
-			(at 237.49 181.6099 0)
+			(at 252.73 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22968,7 +23521,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 237.49 184.1499 0)
+			(at 252.73 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22977,7 +23530,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22986,7 +23539,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22995,7 +23548,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23004,7 +23557,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23013,7 +23566,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23022,7 +23575,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23031,7 +23584,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23040,7 +23593,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23049,7 +23602,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23058,7 +23611,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 234.95 182.88 0)
+			(at 250.19 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23149,7 +23702,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 228.6 177.8 270)
+		(at 243.84 175.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23158,7 +23711,7 @@
 		(fields_autoplaced yes)
 		(uuid "854abc45-1b2e-4f3d-85cc-fe663909eb70")
 		(property "Reference" "R22"
-			(at 229.8701 180.34 0)
+			(at 245.1101 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23167,7 +23720,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 227.3301 180.34 0)
+			(at 242.5701 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23176,7 +23729,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23185,7 +23738,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23194,7 +23747,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23203,7 +23756,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23212,7 +23765,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23221,7 +23774,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23230,7 +23783,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23239,7 +23792,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23248,7 +23801,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23257,7 +23810,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 228.6 177.8 0)
+			(at 243.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23473,6 +24026,196 @@
 			(project "control-board-v2"
 				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
 					(reference "J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 175.26 163.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "87d3b573-7189-48be-9546-8dcb8128c2c2")
+		(property "Reference" "D18"
+			(at 161.544 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 161.544 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 175.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d200aa6-164e-4435-941b-8d7896e9864d")
+		)
+		(pin "2"
+			(uuid "d5bdc728-2a3a-412b-91bd-1a7f9cfc6f3c")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -24412,6 +25155,196 @@
 		)
 	)
 	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 205.74 201.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9943058e-8aaf-4484-a93d-f007fc135307")
+		(property "Reference" "D16"
+			(at 192.024 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 192.024 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 205.74 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f17ac5ff-083e-4539-9f65-ffd8747d15fe")
+		)
+		(pin "2"
+			(uuid "0eefc998-cddf-4f6f-90e6-0a1209969206")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 41.91 39.37 0)
 		(unit 1)
@@ -24605,6 +25538,196 @@
 			(project "control-board"
 				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 157.48 201.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d1590c6-05d4-40e9-94ae-b30b13998434")
+		(property "Reference" "D19"
+			(at 143.764 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 143.764 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2559d19-4002-4e50-8f4a-e80bfcf45ca7")
+		)
+		(pin "2"
+			(uuid "22990e6d-e398-4904-a163-4164a76dd739")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -24879,7 +26002,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 168.91 180.34 0)
+		(at 184.15 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24887,7 +26010,7 @@
 		(dnp no)
 		(uuid "a65d88f6-218d-4ddd-9e09-9c897393c197")
 		(property "Reference" "C21"
-			(at 172.212 178.816 0)
+			(at 187.452 176.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24896,7 +26019,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 172.72 181.6099 0)
+			(at 187.96 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24905,7 +26028,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 169.8752 184.15 0)
+			(at 185.1152 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24914,7 +26037,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24923,7 +26046,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24932,7 +26055,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24941,7 +26064,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24950,7 +26073,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24959,7 +26082,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24968,7 +26091,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24977,7 +26100,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24986,7 +26109,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 168.91 180.34 0)
+			(at 184.15 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25303,7 +26426,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 228.6 209.55 270)
+		(at 224.79 212.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25312,7 +26435,7 @@
 		(fields_autoplaced yes)
 		(uuid "acb36cd3-c401-40db-9d3f-bf7121f3fa1d")
 		(property "Reference" "R11"
-			(at 229.8701 212.09 0)
+			(at 226.0601 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25321,7 +26444,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 227.3301 212.09 0)
+			(at 223.5201 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25330,7 +26453,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25339,7 +26462,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25348,7 +26471,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25357,7 +26480,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25366,7 +26489,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25375,7 +26498,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25384,7 +26507,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25393,7 +26516,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25402,7 +26525,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25411,7 +26534,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 228.6 209.55 0)
+			(at 224.79 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27709,8 +28832,198 @@
 		)
 	)
 	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 224.79 176.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8282a21-587f-495d-a63f-1e2013ff1e06")
+		(property "Reference" "D15"
+			(at 210.566 176.784 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 210.566 179.324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 224.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9211a7a-4ede-44d5-b3af-abbbafcde79f")
+		)
+		(pin "2"
+			(uuid "62d0ef84-52a8-4605-8279-ace1dc413954")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 170.18 213.36 0)
+		(at 166.37 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27718,7 +29031,7 @@
 		(dnp no)
 		(uuid "c8308936-ee36-43ad-bf5e-42556ef84583")
 		(property "Reference" "C33"
-			(at 173.482 211.836 0)
+			(at 169.672 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27727,7 +29040,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 173.99 214.6299 0)
+			(at 170.18 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27736,7 +29049,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 171.1452 217.17 0)
+			(at 167.3352 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27745,7 +29058,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27754,7 +29067,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27763,7 +29076,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27772,7 +29085,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27781,7 +29094,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27790,7 +29103,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27799,7 +29112,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27808,7 +29121,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27817,7 +29130,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 170.18 213.36 0)
+			(at 166.37 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28434,7 +29747,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 179.07 176.53 270)
+		(at 194.31 173.99 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28443,7 +29756,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb5ea2e9-591d-4289-874b-27f15f3053ff")
 		(property "Reference" "R10"
-			(at 180.3401 179.07 0)
+			(at 195.5801 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28452,7 +29765,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 177.8001 179.07 0)
+			(at 193.0401 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28461,7 +29774,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28470,7 +29783,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28479,7 +29792,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28488,7 +29801,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28497,7 +29810,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28506,7 +29819,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28515,7 +29828,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28524,7 +29837,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28533,7 +29846,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28542,7 +29855,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 179.07 176.53 0)
+			(at 194.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28955,143 +30268,6 @@
 			(project "control-board-v2"
 				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
 					(reference "#PWR86")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:BAT54SW")
-		(at 209.55 209.55 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cee26213-287c-49e7-9d24-4523b70490fd")
-		(property "Reference" "D14"
-			(at 207.01 208.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BAT54SW"
-			(at 207.01 210.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 206.375 207.645 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"
-			(at 209.55 212.598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 209.55 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c25c3939-5ba8-45b3-aa15-379a7ea01c21")
-		)
-		(pin "2"
-			(uuid "4e217276-738b-4cd6-800d-97466536e221")
-		)
-		(pin "1"
-			(uuid "b3fc33ba-adab-4d86-bdab-04638456ed1b")
-		)
-		(instances
-			(project "control-board-v2"
-				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
-					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -29692,6 +30868,196 @@
 		)
 	)
 	(symbol
+		(lib_id "BAT46W-7-F:BAT46W-7-F")
+		(at 224.79 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d6841c07-930a-439e-a917-9a59071937a0")
+		(property "Reference" "D1"
+			(at 211.074 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT46W-7-F"
+			(at 211.074 167.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BAT46W-7-F:SOD3715X145N"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diodes Inc."
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123 Fairchild Semiconductor"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=eda"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "18 - 2"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BAT46W-7-F/Diodes+Inc./view-part/?ref=snap"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BAT46W-7-F"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Diode Schottky 100V 0.15A 2Pin SOD123 | Diodes Inc BAT46W-7-F\n                        \n"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 224.79 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f684b32f-1b31-40b9-a3be-c63f6a7122d2")
+		)
+		(pin "2"
+			(uuid "526756fd-bfa7-4855-a78e-9aea4649574b")
+		)
+		(instances
+			(project "control-board-v2"
+				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 199.39 68.58 0)
 		(unit 1)
@@ -29883,143 +31249,6 @@
 			(project "control-board-v2"
 				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
 					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:BAT54SW")
-		(at 160.02 176.53 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d873848d-8df1-4de7-a838-40a314ab9114")
-		(property "Reference" "D1"
-			(at 157.48 175.2599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BAT54SW"
-			(at 157.48 177.7999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 156.845 174.625 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"
-			(at 160.02 179.578 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 160.02 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a15f2ef0-6eb5-41f0-9404-b887491b21b5")
-		)
-		(pin "2"
-			(uuid "117b6a36-273f-4e65-ba68-35a8e45a4712")
-		)
-		(pin "1"
-			(uuid "178f03e3-c8b5-454e-92fb-e556ac8b5723")
-		)
-		(instances
-			(project ""
-				(path "/0d995863-6cec-4b88-9697-48659a6a1176"
-					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -30295,7 +31524,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 160.02 168.91 0)
+		(at 175.26 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30304,7 +31533,7 @@
 		(fields_autoplaced yes)
 		(uuid "da59e270-8b0f-4567-87f4-4679c322a1b0")
 		(property "Reference" "#PWR42"
-			(at 160.02 172.72 0)
+			(at 175.26 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30313,7 +31542,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 160.02 163.83 0)
+			(at 175.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30321,7 +31550,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 168.91 0)
+			(at 175.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30330,7 +31559,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 168.91 0)
+			(at 175.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30339,7 +31568,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 168.91 0)
+			(at 175.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31371,16 +32600,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 217.17 0)
+		(at 205.74 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e6c6cfa2-0c26-42ba-bf88-11f35e785ef7")
 		(property "Reference" "#PWR31"
-			(at 209.55 223.52 0)
+			(at 205.74 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31389,7 +32617,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 223.52 0)
+			(at 205.74 224.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31397,7 +32625,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 217.17 0)
+			(at 205.74 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31406,7 +32634,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 217.17 0)
+			(at 205.74 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31415,7 +32643,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 217.17 0)
+			(at 205.74 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31638,7 +32866,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 233.68 213.36 0)
+		(at 229.87 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31647,7 +32875,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb52ad7c-ad76-42ca-8c89-bd34b6486dde")
 		(property "Reference" "R25"
-			(at 236.22 212.0899 0)
+			(at 232.41 214.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31656,7 +32884,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 236.22 214.6299 0)
+			(at 232.41 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31665,7 +32893,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31674,7 +32902,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31683,7 +32911,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31692,7 +32920,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31701,7 +32929,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31710,7 +32938,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31719,7 +32947,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31728,7 +32956,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31737,7 +32965,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31746,7 +32974,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 233.68 213.36 0)
+			(at 229.87 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31836,7 +33064,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 186.69 180.34 0)
+		(at 201.93 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31845,7 +33073,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb594519-ff91-44a1-af69-866dc3ddce45")
 		(property "Reference" "R12"
-			(at 189.23 179.0699 0)
+			(at 204.47 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31854,7 +33082,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 189.23 181.6099 0)
+			(at 204.47 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31863,7 +33091,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31872,7 +33100,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31881,7 +33109,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31890,7 +33118,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31899,7 +33127,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31908,7 +33136,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31917,7 +33145,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31926,7 +33154,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31935,7 +33163,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31944,7 +33172,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 186.69 180.34 0)
+			(at 201.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32304,16 +33532,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 161.29 217.17 0)
+		(at 157.48 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f465d1b8-0f5c-4668-ab49-b2c04616658c")
 		(property "Reference" "#PWR29"
-			(at 161.29 223.52 0)
+			(at 157.48 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32322,7 +33549,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 161.29 223.52 0)
+			(at 157.48 224.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32330,7 +33557,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 217.17 0)
+			(at 157.48 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32339,7 +33566,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 217.17 0)
+			(at 157.48 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32348,7 +33575,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 217.17 0)
+			(at 157.48 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33035,7 +34262,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 209.55 170.18 0)
+		(at 224.79 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33044,7 +34271,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff6edf1c-277f-4e5a-b010-b397245d014b")
 		(property "Reference" "#PWR44"
-			(at 209.55 173.99 0)
+			(at 224.79 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33053,7 +34280,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 209.55 165.1 0)
+			(at 224.79 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33061,7 +34288,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 170.18 0)
+			(at 224.79 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33070,7 +34297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 170.18 0)
+			(at 224.79 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33079,7 +34306,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 170.18 0)
+			(at 224.79 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)

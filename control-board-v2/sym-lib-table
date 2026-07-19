@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BAT46W-7-F")(type "KiCad")(uri "${KIPRJMOD}/BAT46W-7-F/BAT46W-7-F.kicad_sym")(options "")(descr ""))
+)
