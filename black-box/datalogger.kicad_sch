@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "996158ad-c3ce-40ec-9319-c08fb31824c1")
 	(paper "A4")
+	(title_block
+		(date "2026-05-03")
+		(rev "Ver. 2026-05")
+		(comment 1 "buck converter part by 老百姓")
+	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det1"
 			(exclude_from_sim no)
@@ -7752,16 +7757,16 @@
 		)
 		(uuid "fefc2879-6c81-4b47-b6e6-e302d7f414db")
 	)
-	(text "Ver. 2026-01"
+	(text "輸出:\n0.8*(200+37.4)/37.4=5.078V\n5.078*(1-1%)=5.027>5\n"
 		(exclude_from_sim no)
-		(at 269.24 194.31 0)
+		(at 197.866 20.828 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "13d87fde-1951-41f7-9407-3df9cbad6f5c")
+		(uuid "317c8e0c-5bd7-4ff7-ac4c-e4246fbb1798")
 	)
 	(text "LED"
 		(exclude_from_sim no)
@@ -7804,17 +7809,6 @@
 			(justify left bottom)
 		)
 		(uuid "8c4f7f37-e63e-42b5-bcaf-cffc72e7bbcd")
-	)
-	(text "2026/01/27"
-		(exclude_from_sim no)
-		(at 207.01 194.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a661942c-932e-4a00-b85a-cd25016838f4")
 	)
 	(text "CAN"
 		(exclude_from_sim no)
@@ -10180,7 +10174,7 @@
 		(fields_autoplaced yes)
 		(uuid "18dc0ffb-71ef-40a5-a372-31a0f57b99eb")
 		(property "Reference" "R20"
-			(at 195.58 38.1 0)
+			(at 195.58 38.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10188,8 +10182,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30k1"
-			(at 195.58 40.64 0)
+		(property "Value" "37k4"
+			(at 195.58 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11248,7 +11242,7 @@
 		(fields_autoplaced yes)
 		(uuid "3acb68d9-8aa2-43b2-a06b-506c021251a1")
 		(property "Reference" "R19"
-			(at 195.58 33.02 0)
+			(at 195.58 33.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11256,8 +11250,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "534k"
-			(at 195.58 35.56 0)
+		(property "Value" "200k"
+			(at 195.58 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15308,7 +15302,7 @@
 		(fields_autoplaced yes)
 		(uuid "96efcbe2-997d-4a61-8ebe-e52b2f650924")
 		(property "Reference" "U7"
-			(at 247.65 26.035 0)
+			(at 247.65 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15316,7 +15310,7 @@
 			)
 		)
 		(property "Value" "AP2204K-ADJ"
-			(at 247.65 28.575 0)
+			(at 247.65 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
